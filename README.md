@@ -1,12 +1,12 @@
 # ATIVIDADE FINAL DA DISCIPLINA "N692 - ESTRUTURA DE DADOS"
 
 # AUTORES:
-- Rafael Angelo Pinheiro Do Vale;
-- Amanda Costa Silva;
-- Isaias Do Amaral Sousa;
-- Lucas Gabriel Vasconcelos;
-- Paulo Henrique de Sousa Gomes;
-- Pedro Yuri Rodrigues Nunes.
+- Rafael Angelo Pinheiro Do Vale - 2418273;
+- Amanda Costa Silva - 2415606;
+- Isaias Do Amaral Sousa - 2416767;
+- Lucas Gabriel Vasconcelos - 2415656;
+- Paulo Henrique de Sousa Gomes - 2425201;
+- Pedro Yuri Rodrigues Nunes - 2425031.
 
 > JUSTIFICATIVA DO PROJETO
 
